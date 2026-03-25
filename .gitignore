@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+build/
+android/
+ios/
+web/
+macos/
+windows/
+linux/
+flutter_export/
+pubspec.lock
